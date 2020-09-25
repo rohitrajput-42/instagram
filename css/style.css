@@ -1,0 +1,106 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.logindet{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-50%,-50%);
+ 
+}
+
+.logindet .f1{
+    width: 350px;
+    height: 409px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: slategrey;
+}
+
+.logindet .f2{
+    width: 350px;
+    height: 50px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: slategrey;
+}
+
+.logindet .cred .gettheapp{
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.logindet .container{
+    
+    display: flex;
+    align-items: center;
+}
+
+
+
+.listeditems{
+    background: #385185;
+    background-color: fill;
+    float: left;
+    width: 700px;
+    height: 100px;
+    background-position-x: initial;
+}
+
+.listeditems ul{
+    float: left;
+    display: inline-flex;
+    list-style: none;
+}
+
+.listeditems ul li{
+    font-family: sans-serif;
+    font-weight: 15px;;
+    float: left;
+    width: 50px;
+    margin: 5px;
+    padding: 5px;
+    color: #fff;
+}
+
+#phn{
+    margin-left: 45px;
+}
+
+#phn img{
+    margin: 0;
+    padding: 0px;
+    align-items: left;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+.container{
+    text-align: center;
+}
+
+.foot-nav ul{
+    list-style-type: none;
+    margin-left:150px;
+}
+
+.foot-nav ul li{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: inherit; 
+    float: left;
+    width: 80px;
+    margin-bottom: 12px;
+    color: #385185; 
+}
+
+.copy{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #919797;
+}

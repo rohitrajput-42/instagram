@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.format{
+    text-align: center;
+}
+
+h1{
+    font-size: 19px;
+    font-family: sans-serif;
+    color: slategrey;
+}
+
+
+h2{
+    color: #385185;
+    font-size: 18px; 
+    text-align: center;
+    margin-left: 25px;
+    font-family: sans-serif;
+}
+
+.format .text1{
+    margin-left: 40px;
+    display: block;
+    text-align: center;
+    padding: 4px;
+    border-radius: 5px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: slategrey;
+    width: 250px;
+    height: 20px;
+}
+
+.format .text2{
+    margin-left: 40px;
+    display: block;
+    text-align: center;
+    padding: 4px;
+    border-radius: 5px;
+    border-width: 0.5px;
+    border-style: solid;
+    border-color: slategrey;
+    width: 250px;
+    height: 20px;
+}
+
+.format .btn{
+    padding: 3px;
+    margin-left: 10px;
+    margin-right: 18px; 
+    width: 270px;
+    background: #A1D7E9;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    border-width: 0.5px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: slategrey;
+    cursor: pointer;
+}
+
+.format .btn:hover{
+    background: #34B8FF
+}
+
+.imagetag img{
+    padding: 15px;
+    margin-left: 30px;
+    padding-right: 20px;
+}
+
+.texts{
+    font-family: sans-serif;
+    font-size: 15px;
+    color: #242525;
+    margin-right: 60px;
+    padding-left: -80px;
+}
+
+.texts h3{
+    margin-right: 20px;
+}
+
+hr.new1{
+    border: solid;
+    border-width: 1px;
+    margin-left: 20px;
+    width: 150px;
+}
